@@ -1,0 +1,6 @@
+h1{Text-Align:center;color:#FFFFFF}
+Body{Background-color:#008080;}
+.Text{Height:50px;Width:200px;Position-align:Center}
+.button1{Background-Color:Red; Height:50px; Width:75px}
+.button2{Background-Color:White;Height:50px; Width:75px}
+li{Text-Align:Center};

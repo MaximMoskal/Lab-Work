@@ -1,0 +1,19 @@
+<HTML>
+<Head>
+<link rel="stylesheet" href="Style.css">
+<Title>Список Дел</Title>
+</Head>
+<Body>
+<h1>Список Дел</h1>
+<Input Type="Text" PlaceHolder="Новое дело в список"></Input>
+<Button class="button1">Добавить</Button>
+<Button class="button2">Очистить Всё</Button>
+<ul>
+<li><Input type="checkbox">Почесать Кошку</Input><sub>от 24.08.2023</sub><button><img src="Крестик.png" Width="15" Height="15"></button></li>
+<li><Input type="checkbox">Полить Картошку</Input><sub>от 04.05.2022</sub><button><img src="Крестик.png" Width="15" Height="15"></button></li>
+<li><Input type="checkbox">Сложить В Лукошко</Input><sub>от 14.05.2022</sub><button><img src="Крестик.png" Width="15" Height="15"></button></li>
+</ul>
+<hr></hr>
+Copyright &copy;
+</Body>
+</HTML>
